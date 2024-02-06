@@ -1,6 +1,6 @@
-# Visual Explanations from Spiking Neural Networks using Interspike Intervals Paper Review
+# Visual Explanations from Spiking Neural Networks using Interspike Intervals Paper
 
-
+Original Paper: https://arxiv.org/abs/2103.14441
 
 # Abstract
 

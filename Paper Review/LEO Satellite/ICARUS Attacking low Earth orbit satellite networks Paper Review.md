@@ -1,6 +1,6 @@
 # ICARUS: Attacking low Earth orbit satellite networks Paper Review
 
-
+Original Paper: https://www.usenix.org/conference/atc21/presentation/giuliari
 
 # Abstract
 

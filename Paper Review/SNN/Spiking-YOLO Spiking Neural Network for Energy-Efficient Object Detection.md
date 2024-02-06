@@ -1,6 +1,6 @@
 # Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection
 
-
+Original Paper:https://arxiv.org/pdf/1903.06530.pdf
 
 # Abstract
 
